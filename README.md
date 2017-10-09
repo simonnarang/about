@@ -8,4 +8,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Skill
 
-<img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="50" height="50" style="text-align: center; overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" align="center">
+<img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="50" height="50" style="text-align: center; overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" align="center">  
+
+<img src="https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-400x400.png" width="50" height="50" style="text-align: center; overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" align="center">
