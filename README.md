@@ -1,4 +1,4 @@
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1441454102616987%26set%3Da.100169150078829.148.100002572320381%26type%3D3&width=500" width="500" height="506" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<img src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1441454102616987%26set%3Da.100169150078829.148.100002572320381%26type%3D3&width=500" width="500" height="506" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></img>
 
 ## About
 
