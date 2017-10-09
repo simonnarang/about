@@ -11,3 +11,5 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="50" height="50" style="text-align: center; overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" align="center">  
 
 <img src="https://image.freepik.com/free-icon/facebook-circular-logo_318-37205.jpg" width="50" height="50" style="text-align: center; overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" align="center">
+
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-twitter-512.png" width="50" height="50" style="text-align: center; overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" align="center">
