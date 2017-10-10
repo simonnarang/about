@@ -3,9 +3,10 @@
 ## About  
 I am currently a sophomore at Sutherland High School in Pittsford, NY. I also work part-time as a software engineering intern at a restaurant technology company called Toast. At school, I am the vice-president of Programming Club, and I participate in Science Olympiad, Math League Jazz Band and FIRST Robotics.
 
-## Awards  
+## Accomplishments  
 * Apple WWDC17 Scholarship
 * RIT HackFest 2016 1st place
+* RIT GenCyberSecurity Certification
 
 ## Skills
 * IOS development (Swift)
